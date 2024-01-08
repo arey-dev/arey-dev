@@ -14,3 +14,11 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJs" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" />
+
+<br>
+
+#
+
+### Stats
+
+![R.A's GitHub stats](https://github-readme-stats.vercel.app/api?username=arey-dev&hide=stars,contribs&show_icons=true&theme=aura)
