@@ -21,4 +21,4 @@
 
 ### Stats
 
-![R.A's GitHub stats](https://github-readme-stats.vercel.app/api?username=arey-dev&hide=stars,contribs&show_icons=true&theme=aura)
+![R.A's GitHub stats](https://github-readme-stats.vercel.app/api?username=arey-dev&hide=stars,contribs&show_icons=true&theme=omni)
