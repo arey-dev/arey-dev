@@ -1,6 +1,6 @@
 # Hello, I am R.A 👋
 
-<p>FullStack Developer at Ayahtek</p>
+<p>FullStack Developer Trainee at Ayahtek</p>
 
 #
 
