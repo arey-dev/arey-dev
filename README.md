@@ -1,6 +1,6 @@
 # Hello, I am R.A 👋
 
-<p>FullStack Developer Trainee at Ayahtek</p>
+<p>just yak shaving</p>
 
 #
 
